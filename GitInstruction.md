@@ -25,6 +25,13 @@
 ### Что такое ветки и для чего они нужны при работе с системой контроля версий.
 
 ### Базовая работа с ветками в git.
+OPTIONS
+-d
+--delete
+Delete a branch. The branch must be fully merged in its upstream branch, or in HEAD if no upstream was set with --track or --set-upstream-to.
+
+-D
+Shortcut for --delete --force.
 
 ## Работа с удаленными репозиториями.
 
